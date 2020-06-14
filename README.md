@@ -29,8 +29,6 @@ Our Python app will make an HTTP request to the webhook URL which will trigger a
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-## USAGE
------------------------------------------------------------------------------------------------------------------------------------------------
 Following query on terminal will provide you with all the help options 
 
 ### INPUT
